@@ -28,7 +28,7 @@ protected:
 
 	virtual void OnComponentDestroyed(bool bValue) override;
 
-
+	//G
 
 		
 };
